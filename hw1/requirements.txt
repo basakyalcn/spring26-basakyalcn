@@ -1,0 +1,8 @@
+numpy
+pandas
+matplotlib
+statsmodels
+scipy
+scikit-learn
+requests
+eptr2[allextras]
